@@ -34,12 +34,12 @@ This project does not require any build tools or dependencies. You can run it di
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/your-repo-name.git
+    git clone https://github.com/Omkar3101/interactive_feedback_form.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd interactive_feedback_form
     ```
 
 3.  **Open the `index.html` file in your web browser.**
